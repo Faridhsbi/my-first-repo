@@ -5,3 +5,5 @@ NPM : 2306152512
 Kelas : PBP D
 
 Hobi : Ngoding
+
+Jurusan : Ilmu Komputer
